@@ -6,7 +6,7 @@
      for (let i = 1; i <= t; i++) {
            r = c * (1 + (j/100));
        document.write("Mês " + i + " valor: " + r + "<br>");
-           v = r;
+           c = r;
      }
 
      document.write("Resultado: " + r);
